@@ -3,7 +3,7 @@
 Pawaris Wongsalung 6110545562
 Assignment for Software Verification and Validation
 
-## Prerequisite
+## Requirements
 
 | Name     | Version                                                                        | Description                                                                                                         |
 | -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ Assignment for Software Verification and Validation
 git clone https://github.com/kabilza/swt-bankaccount-test.git
 ```
 
-## How to use ( Test )
+## How to test the code
 
 1) After cloning the project, head into the project directory and type
 
