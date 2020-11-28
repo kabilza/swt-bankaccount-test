@@ -1,0 +1,4 @@
+CheckIfAccountIsEligibleTest.class
+DepositCashPerDayTest.class
+CheckIfTransactionMoreThanMinTest.class
+DepositCashPerPersonPerTransactionTest.class
