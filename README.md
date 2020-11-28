@@ -29,3 +29,20 @@ cd swt-bankaccount-test
 2) Type and run the following command
 ```
 mvn clean test
+```
+
+3) Observe the result of the test via command line
+
+``` 
+...
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  37.010 s
+[INFO] Finished at: 2020-11-28T23:42:59+07:00
+...
+```
